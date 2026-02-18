@@ -147,5 +147,5 @@ Developed and tested on:
 
 ## Authors
 
-Konstantina Karapetsa
-Sotiropoulou Foteini
+- Konstantina Karapetsa
+- Foteini Sotiropoulou
